@@ -1,7 +1,7 @@
 import os
 import docx
 import re
-
+#把word文档里面的第一行作为文件名
 # 定义文件夹路径
 folder_path = 'D:\BaiduNetdiskDownload\公众号文章采集下载器\application\ - word'
 
